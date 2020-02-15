@@ -216,6 +216,7 @@ input, select, textarea {
 
 	header {
 		margin-bottom: 1em;
+		display: block;
 	}
 
 		header h1, header h2, header h3, header h4, header h5, header h6 {
@@ -2352,6 +2353,7 @@ input, select, textarea {
 	#footer .copyright {
 		margin-top: 3em;
 		font-size: 0.8em;
+		font-style: italic;
 	
 		color: #aaa;
 	}
