@@ -344,7 +344,8 @@ input, select, textarea {
 /* Row */
 
 	.row {
-		display: flex;
+		display: grid;
+		grid-template-rows: repeat(auto-fit, minmax(12rem, 1fr));
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
