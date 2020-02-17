@@ -28,7 +28,7 @@ h1{
 #first .container{
     
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), #3A5318 url(images/Gallery/OrganicFarmingCover.jpg);
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-position: bottom;
     opacity: 0.9;
     text-align: center;
@@ -42,7 +42,7 @@ h1{
     
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), #3A5318 url(images/Pics/pic03.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
+   /* background-attachment: fixed;*/
     opacity: 0.9;
     text-align: center;
     font-size: 2rem;
@@ -55,7 +55,7 @@ h1{
     
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), #3A5318 url(images/Pics/pic05.jpeg);
 
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     opacity: 0.9;
     text-align: center;
     font-size: 2rem;
