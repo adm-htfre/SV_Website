@@ -68,7 +68,7 @@ h1{
     margin: 0;
 }
 .gallery img{
-    border-radius: 1em;
+    /* border-radius: 1em; */
     width: 40%;
     height: auto;
     margin: 1rem 1rem 1rem 1rem;
